@@ -50,8 +50,9 @@ book2 = Book("Java Programming", "222")
 library.add_book(book1)
 library.add_book(book2)
 
-member = Member(1, "Armin", "armin@example.com")
+member = Member(1, "Farshid", "Farshid.Keivanian@uts.edu.au")
 
 member.borrow(book1)   #  borrow success
 member.borrow(book1)   #  already borrowed
 member.return_book(book1)  #  return success
+
