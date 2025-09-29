@@ -1,0 +1,3 @@
+This is a sample data file.
+Line 2: Python file handling example.
+Line 3: Students can read this file using open().
