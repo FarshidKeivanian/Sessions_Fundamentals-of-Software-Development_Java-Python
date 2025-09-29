@@ -1,0 +1,3 @@
+Hello, this is a sample file for Activity 2.
+Students should read this file content in Python.
+Good luck with Lab 9 preparation!
